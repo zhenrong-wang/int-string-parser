@@ -48,6 +48,14 @@ Command Format: `cmd argv[1] argv[2]`
 
 `.\my-int-parser.exe test102string103tobe0023parsed 0102`
 
+If everything goes well, you'll see the output below:
+
+    INFO   : Parsing the integer 102 started ...
+
+    FOUND  : Parsed out 102 at position 4, # 1.
+
+    SUMMARY: Parsed out 1 integer string 102.
+
 # 4 Bugs and Communications
 
 Any bugs or problems found, please submit issues to this repo. I'd be glad to communicate on any issues.
