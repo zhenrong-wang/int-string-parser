@@ -12,7 +12,7 @@
 
 //validate the integer string to be parsed out
 
-int validate_interger_string(const char* input_integer_string, char* output_string){
+int validate_integer_string(const char* input_integer_string, char* output_string){
     int length=strlen(input_integer_string);
     int sum=0;
     int start_digit_flag=0;
@@ -57,7 +57,7 @@ int main(int argc, char** argv){
         return 1; // There must be at least 2 argvs.
     }
     char real_int_string[256]="";
-    int length2=validate_interger_string(argv[2],real_int_string);
+    int length2=validate_integer_string(argv[2],real_int_string);
 
     if(length2<0){
         printf("USAGE  : COMMAND UTF_STRING INTEGER_STRING(0~255).\n");
