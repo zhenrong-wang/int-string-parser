@@ -2,7 +2,9 @@
 
 # 1. Background
 
-This is a practice initiated by Prof Daniel Lemire (Twitter @lemire).
+This is a practice proposed by Prof Daniel Lemire (Twitter @lemire).
+
+See the blog of this practice [here](https://lemire.me/blog/2023/11/28/parsing-8-bit-integers-quickly/).
 
 # 2. Brief Intro
 
