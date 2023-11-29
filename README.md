@@ -2,13 +2,15 @@
 
 # 1. Background
 
-Just for practice.
+Inspired by Professor Daniel Lemire's Twitter post. Check his Twitter @lemire
+
+Very useful to parse a complex string and extract integer strings among ASCII characters.
 
 # 2. Brief Intro
 
 **Program Name**: Int-string-parser
 
-**Purpose**: Parse an integer out of a given UTF-8 string
+**Purpose**: Extract an integer out of a given UTF-8 ASCII string
 
 **License**: MIT
 
