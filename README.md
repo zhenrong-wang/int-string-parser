@@ -1,10 +1,10 @@
-# Int-string-parser: A small practice to parse an ASCII string and extract 8-bit integer
+# Int-string-parser: A small practice to parse a string and extract an 8-bit integer
 
 # 1. Background
 
 Inspired by Professor Daniel Lemire's Twitter post. Check his Twitter @lemire
 
-Very useful to parse a complex string and extract integer strings among ASCII characters.
+The code here is very useful to parse a complex string and extract integer strings among ASCII characters.
 
 # 2. Brief Intro
 
